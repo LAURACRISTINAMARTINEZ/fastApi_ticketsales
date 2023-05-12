@@ -1,0 +1,17 @@
+# ignore .git
+.git
+.gitignore
+
+# ignore .vscode
+.vscode
+
+**/__pycache__/
+**/*.png
+**/exploracion_datos
+**/*.ipynb
+
+# training
+**/*.csv
+**/training.py
+
+# **/modelos

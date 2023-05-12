@@ -1,0 +1,20 @@
+#utilidades
+pandas
+pyyaml
+scikit-learn 
+ 
+
+# Tensorflow
+numpy
+Tensorflow
+
+#Api/Fastapi
+pydantic
+uvicorn 
+gunicorn
+fastapi  
+typing_extensions 
+
+
+
+
